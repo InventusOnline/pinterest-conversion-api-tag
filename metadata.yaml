@@ -1,4 +1,4 @@
 homepage: "https://inventus.online"
 versions:
-  - sha: shahere
+  - sha: e80486dcfd9aa7d3258ffae5c8e9b26b9337bf45
     changeNotes: Initial release of Pinterest Conversion API Tag
